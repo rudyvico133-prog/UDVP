@@ -61,4 +61,4 @@ No personal or sensitive data is stored on-chain. Only cryptographic proofs are 
 
 ---
 
-Copyright and related rights waived via [CC0](./LICENSE.md).
+Copyright and related rights waived via [CC0](./LICENSE.md). https://github.com/rudyvico133-prog/UDVP/blob/main/LICENSE
