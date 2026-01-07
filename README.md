@@ -1,7 +1,7 @@
 ---
 Title: Universal Vehicle Passport
 Description: A standardized blockchain-based infrastructure providing a neutral, immutable and verifiable vehicle lifecycle record across the automotive ecosystem.
-Author: Rudy Vico <rudy.vico@email.com>
+Author: Rudy Vico <rudyvico133@gmail.com>
 Discussions: https://vechain.discourse.group/t/add-vip-udvp-universal-digital-vehicle-passport/697
 Category: Application
 Status: Draft
